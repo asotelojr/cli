@@ -38,9 +38,8 @@ All commands:
     link, ll, login, logout, ls, org, outdated, owner, pack,
     ping, pkg, prefix, profile, prune, publish, query, rebuild,
     repo, restart, root, run, sbom, search, set, shrinkwrap,
-    star, stars, start, stop, team, test, token, trust,
-    undeprecate, uninstall, unpublish, unstar, update, version,
-    view, whoami
+    start, stop, team, test, token, trust, undeprecate,
+    uninstall, unpublish, update, version, view, whoami
 
 Specify configs in the ini-formatted file:
     {USERCONFIG}
@@ -87,11 +86,10 @@ All commands:
     query, rebuild, repo,
     restart, root, run,
     sbom, search, set,
-    shrinkwrap, star, stars,
-    start, stop, team, test,
-    token, trust,
-    undeprecate, uninstall,
-    unpublish, unstar,
+    shrinkwrap, start, stop,
+    team, test, token,
+    trust, undeprecate,
+    uninstall, unpublish,
     update, version, view,
     whoami
 
@@ -140,11 +138,10 @@ All commands:
     query, rebuild, repo,
     restart, root, run,
     sbom, search, set,
-    shrinkwrap, star, stars,
-    start, stop, team, test,
-    token, trust,
-    undeprecate, uninstall,
-    unpublish, unstar,
+    shrinkwrap, start, stop,
+    team, test, token,
+    trust, undeprecate,
+    uninstall, unpublish,
     update, version, view,
     whoami
 
@@ -181,9 +178,8 @@ All commands:
     link, ll, login, logout, ls, org, outdated, owner, pack,
     ping, pkg, prefix, profile, prune, publish, query, rebuild,
     repo, restart, root, run, sbom, search, set, shrinkwrap,
-    star, stars, start, stop, team, test, token, trust,
-    undeprecate, uninstall, unpublish, unstar, update, version,
-    view, whoami
+    start, stop, team, test, token, trust, undeprecate,
+    uninstall, unpublish, update, version, view, whoami
 
 Specify configs in the ini-formatted file:
     {USERCONFIG}
@@ -230,11 +226,10 @@ All commands:
     query, rebuild, repo,
     restart, root, run,
     sbom, search, set,
-    shrinkwrap, star, stars,
-    start, stop, team, test,
-    token, trust,
-    undeprecate, uninstall,
-    unpublish, unstar,
+    shrinkwrap, start, stop,
+    team, test, token,
+    trust, undeprecate,
+    uninstall, unpublish,
     update, version, view,
     whoami
 
@@ -283,11 +278,10 @@ All commands:
     query, rebuild, repo,
     restart, root, run,
     sbom, search, set,
-    shrinkwrap, star, stars,
-    start, stop, team, test,
-    token, trust,
-    undeprecate, uninstall,
-    unpublish, unstar,
+    shrinkwrap, start, stop,
+    team, test, token,
+    trust, undeprecate,
+    uninstall, unpublish,
     update, version, view,
     whoami
 
@@ -335,12 +329,11 @@ All commands:
     query, rebuild, repo,
     restart, root, run, sbom,
     search, set, shrinkwrap,
-    star, stars, start, stop,
-    team, test, token, trust,
+    start, stop, team, test,
+    token, trust,
     undeprecate, uninstall,
-    unpublish, unstar,
-    update, version, view,
-    whoami
+    unpublish, update,
+    version, view, whoami
 
 Specify configs in the ini-formatted file:
     {USERCONFIG}
@@ -375,9 +368,8 @@ All commands:
     link, ll, login, logout, ls, org, outdated, owner, pack,
     ping, pkg, prefix, profile, prune, publish, query, rebuild,
     repo, restart, root, run, sbom, search, set, shrinkwrap,
-    star, stars, start, stop, team, test, token, trust,
-    undeprecate, uninstall, unpublish, unstar, update, version,
-    view, whoami
+    start, stop, team, test, token, trust, undeprecate,
+    uninstall, unpublish, update, version, view, whoami
 
 Specify configs in the ini-formatted file:
     {USERCONFIG}
@@ -412,9 +404,8 @@ All commands:
     link, ll, login, logout, ls, org, outdated, owner, pack,
     ping, pkg, prefix, profile, prune, publish, query, rebuild,
     repo, restart, root, run, sbom, search, set, shrinkwrap,
-    star, stars, start, stop, team, test, token, trust,
-    undeprecate, uninstall, unpublish, unstar, update, version,
-    view, whoami
+    start, stop, team, test, token, trust, undeprecate,
+    uninstall, unpublish, update, version, view, whoami
 
 Specify configs in the ini-formatted file:
     {USERCONFIG}
@@ -449,9 +440,8 @@ All commands:
     link, ll, login, logout, ls, org, outdated, owner, pack,
     ping, pkg, prefix, profile, prune, publish, query, rebuild,
     repo, restart, root, run, sbom, search, set, shrinkwrap,
-    star, stars, start, stop, team, test, token, trust,
-    undeprecate, uninstall, unpublish, unstar, update, version,
-    view, whoami
+    start, stop, team, test, token, trust, undeprecate,
+    uninstall, unpublish, update, version, view, whoami
 
 Specify configs in the ini-formatted file:
     {USERCONFIG}
